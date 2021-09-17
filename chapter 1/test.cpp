@@ -6,4 +6,5 @@ int main(){
     cout << a << 'a';
     int b = 12;
     cout << b;
+    return 0;
 }
